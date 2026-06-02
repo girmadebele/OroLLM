@@ -4,7 +4,7 @@ OroLLM is a research-driven initiative to develop efficient Large Language Model
 
 ##  Project Summary
 
-OroLLM is an academic-industry research initiative led by Adama Science and Technology University (ASTU) aimed at developing scalable and resource-efficient Large Language Models (LLMs) for Afaan Oromoo.
+OroLLM is an academic research initiative led by experts at Adama Science and Technology University (ASTU) aimed at developing scalable and resource-efficient Large Language Models (LLMs) for Afaan Oromoo.
 
 The project addresses the critical gap in Natural Language Processing (NLP) for low-resource African languages, where limited datasets and computational constraints have hindered the development of high-quality language technologies.
 
