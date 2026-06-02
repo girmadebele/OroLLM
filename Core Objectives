@@ -1,0 +1,8 @@
+Develop a foundational Afaan Oromoo language model (OroLLM) optimized for low-resource training environments (≤12GB GPU)
+Construct and curate high-quality Afaan Oromoo corpora from diverse domains (education, governance, web text, and conversational data)
+Build tokenization and preprocessing pipelines tailored to Afaan Oromoo linguistic structure
+Enable downstream NLP applications including:
+Machine translation (Afaan Oromoo ↔ English and other regional languages)
+Text summarization
+Question answering systems
+Conversational AI for public service delivery
