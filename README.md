@@ -46,7 +46,7 @@ Low-resource language technology development
 Open science and reproducible AI research
 🔓 Open Science Commitment
 OroLLM will progressively release:
-Training datasets (where licensing permits)
+Training datasets
 Model checkpoints
 Tokenizers and preprocessing tools
 Evaluation benchmarks
