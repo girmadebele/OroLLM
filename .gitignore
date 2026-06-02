@@ -22,7 +22,7 @@ env/
 *.ipynb_checkpoints
 
 # ================================
-# LLM / ML artifacts (VERY IMPORTANT)
+# LLM / ML model artifacts
 # ================================
 *.pt
 *.pth
@@ -36,21 +36,22 @@ logs/
 runs/
 
 # ================================
-# Datasets (keep out of Git)
+# Datasets (DO NOT TRACK)
 # ================================
 data/raw/
 data/processed/
 data/external/
 
 # ================================
-# Hugging Face cache
+# Hugging Face / Transformers cache
 # ================================
 .cache/
 datasets/
 transformers_cache/
+huggingface_hub/
 
 # ================================
-# Packaging / build
+# Packaging / build files
 # ================================
 build/
 dist/
@@ -64,7 +65,7 @@ dist/
 htmlcov/
 
 # ================================
-# IDE / Editors
+# IDE / editors
 # ================================
 .vscode/
 .idea/
